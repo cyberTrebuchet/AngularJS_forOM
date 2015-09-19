@@ -57,6 +57,6 @@ and sometimes we have to make it.
 
 forOM is for college and shul, for church and state, for apple pie and ice cream, for God and Country, for me and you.
 
-##### on behalf of all of us,
+###### on behalf of all of us,
 
-###### thank you for your presence.
+##### thank you for your presence.
