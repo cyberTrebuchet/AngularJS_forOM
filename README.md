@@ -46,6 +46,14 @@ Also, infinite sub-comments!
   - User may edit the weights of Nods vs Winks for calculating activity level
   - User may save display settings
 
+## tech
+- [PureCSS](http://purecss.io/) for a simply beautiful interface
+- [AngularJS](https://angularjs.org/) for front-end functionality
+- [Ruby on Rails](http://rubyonrails.org/) for a RESTful API
+  - [PostgreSQL](http://www.postgresql.org/) for Big, Bad Data
+  - [bcrypt](https://rubygems.org/gems/bcrypt-ruby/versions/3.1.5) for authentication
+  - [pry](https://rubygems.org/gems/pry/versions/0.10.1) for testing and debugging
+
 ## join the conversation
 
 forOM is intended as a simple **platform for the people**, from world leaders to community volunteers,
