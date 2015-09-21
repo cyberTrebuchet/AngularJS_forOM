@@ -1,0 +1,23 @@
+<div class="pure-menu pure-menu-open pure-menu-horizontal">
+  <img class="pure-image" src="assets/images/forOM-logo.png">
+  <ul>
+    <li>
+      <!--
+        Below we include the Login Button social plugin. This button uses
+        the JavaScript SDK to present a graphical Login button that triggers
+        the FB.login() function when clicked.
+      -->
+
+      <div>
+        <div class="fb-login-button" data-max-rows="3" data-size="xlarge" data-show-faces="false" data-auto-logout-link="false"></div>
+
+        <div id="status">
+        </div>
+      </div>
+    </li>
+    <li ui-sref-active="pure-menu-selected"><a href ui-sref="root.home">{{ 'home' | uppercase }}</a>
+    </li>
+    <li ui-sref-active="pure-menu-selected"><a href ui-sref="root.getting-started">{{ 'getting started' | uppercase }}</a>
+    </li>
+  </ul>
+</div>
