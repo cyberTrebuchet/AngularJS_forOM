@@ -47,7 +47,7 @@ Also, infinite sub-comments!
   - User may save display settings
 
 ## tech
-- [PureCSS](http://purecss.io/) via [SASS](http://sass-lang.com/) for a simply beautiful interface
+- [PureCSS](http://purecss.io/) via [Sass](http://sass-lang.com/) for a simply beautiful interface
 - [AngularJS](https://angularjs.org/) for front-end functionality
 - [Backand](https://backand.com) for everything else
 
